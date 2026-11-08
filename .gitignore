@@ -1,1 +1,2 @@
 config/keys/db_root.key
+*.log
