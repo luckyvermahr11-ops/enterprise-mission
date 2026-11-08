@@ -1,0 +1,6 @@
+200 OK - User login success
+404 NOT_FOUND - Page missing
+500 ERROR - Database connection timeout
+200 OK - Dashboard loaded
+500 ERROR - Payment gateway crashed
+200 OK - Logout success

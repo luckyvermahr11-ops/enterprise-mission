@@ -1,0 +1,10 @@
+Filesystem      Size  Used Avail Use% Mounted on
+rootfs          141G  130G   11G  93% /
+none            141G  130G   11G  93% /dev
+none            141G  130G   11G  93% /run
+none            141G  130G   11G  93% /run/lock
+none            141G  130G   11G  93% /run/shm
+none            141G  130G   11G  93% /run/user
+tmpfs           141G  130G   11G  93% /sys/fs/cgroup
+C:\             141G  130G   11G  93% /mnt/c
+D:\              98G  7.1G   91G   8% /mnt/d
